@@ -19,8 +19,8 @@ int main()
         //if ( gasDetector == OFF ) {
         //    alarmLed = OFF;
         //}
-        else {
-            alarmLed = OFF; 
-        }
+        // else {
+        //     alarmLed = OFF;
+        // }
     }
 }
